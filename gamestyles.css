@@ -1,0 +1,64 @@
+.navbar-brand {
+	color:white;
+}
+
+.nav-padding{
+	padding-top: 15px;
+	padding-bottom:15px;
+	padding-left:25px;
+}
+
+.navbar-brand{
+	font-size: 30px;
+
+}
+
+.navbar .form .form-group {
+	float:right;
+}
+
+.col{
+	margin-left:20px;
+}
+
+.sec-padding{
+	padding-top:50px;
+
+	}
+
+	.sec-padding .row .col ul{
+		font-size: 20px;
+
+	}
+
+
+	.sec-padding .row .col li{
+		color:grey;
+		padding-top:10px;
+		padding-bottom: 10px;
+	}
+
+.sec-padding .row .col{
+	display:inline-block;
+	float:left;
+	margin-left: 50px;
+}
+
+.sec-padding .row .col h1{
+	font-size: 47px;
+	margin-left:65px;
+}
+
+.sec-padding .row .col table{
+padding-top: 50px;
+}
+
+
+.table-adjustment {
+  margin: 0 0 15px 0; 
+padding-left: 60px;
+}
+.row .col .button{
+	margin-left: 60px;
+	margin-right: 60px;
+}

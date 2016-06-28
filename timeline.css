@@ -1,0 +1,47 @@
+.upper-container{
+	background-image: url(coverphoto.jpg);
+	margin-top: 70px;
+	margin-left:100px;
+	height:480px;
+	width:950px;
+
+}
+
+.upper-container h2{
+	float:right;
+	margin-top:400px;
+	margin-right:300px;
+}
+
+.wrapper {
+	height: 700px;
+	
+	margin:50px;
+	background-color: white;
+}
+
+.wrapper .col-md-3{
+
+	
+	height:inherit;
+
+}
+
+.wrapper .col-md-9{
+
+	
+	height:inherit;
+}
+
+.navbar h2{
+	float:right;
+	font-size: 20px;
+	color:blue;
+
+}
+
+.navbar-default{
+	background-color: lightgrey;
+
+}
+
